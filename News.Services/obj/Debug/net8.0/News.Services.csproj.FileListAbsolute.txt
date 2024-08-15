@@ -1,0 +1,17 @@
+F:\youTube_WebApi\Bearer Api\News\News.Services\bin\Debug\net8.0\News.Services.deps.json
+F:\youTube_WebApi\Bearer Api\News\News.Services\bin\Debug\net8.0\News.Services.dll
+F:\youTube_WebApi\Bearer Api\News\News.Services\bin\Debug\net8.0\News.Services.pdb
+F:\youTube_WebApi\Bearer Api\News\News.Services\bin\Debug\net8.0\News.Contracts.dll
+F:\youTube_WebApi\Bearer Api\News\News.Services\bin\Debug\net8.0\News.Entitis.dll
+F:\youTube_WebApi\Bearer Api\News\News.Services\bin\Debug\net8.0\News.Contracts.pdb
+F:\youTube_WebApi\Bearer Api\News\News.Services\bin\Debug\net8.0\News.Entitis.pdb
+F:\youTube_WebApi\Bearer Api\News\News.Services\obj\Debug\net8.0\News.Services.csproj.AssemblyReference.cache
+F:\youTube_WebApi\Bearer Api\News\News.Services\obj\Debug\net8.0\News.Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\youTube_WebApi\Bearer Api\News\News.Services\obj\Debug\net8.0\News.Services.AssemblyInfoInputs.cache
+F:\youTube_WebApi\Bearer Api\News\News.Services\obj\Debug\net8.0\News.Services.AssemblyInfo.cs
+F:\youTube_WebApi\Bearer Api\News\News.Services\obj\Debug\net8.0\News.Services.csproj.CoreCompileInputs.cache
+F:\youTube_WebApi\Bearer Api\News\News.Services\obj\Debug\net8.0\News.Ser.E52E3B6D.Up2Date
+F:\youTube_WebApi\Bearer Api\News\News.Services\obj\Debug\net8.0\News.Services.dll
+F:\youTube_WebApi\Bearer Api\News\News.Services\obj\Debug\net8.0\refint\News.Services.dll
+F:\youTube_WebApi\Bearer Api\News\News.Services\obj\Debug\net8.0\News.Services.pdb
+F:\youTube_WebApi\Bearer Api\News\News.Services\obj\Debug\net8.0\ref\News.Services.dll

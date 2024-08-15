@@ -1,0 +1,11 @@
+F:\youTube_WebApi\Bearer Api\News\News.Entitis\bin\Debug\net8.0\News.Entitis.deps.json
+F:\youTube_WebApi\Bearer Api\News\News.Entitis\bin\Debug\net8.0\News.Entitis.dll
+F:\youTube_WebApi\Bearer Api\News\News.Entitis\bin\Debug\net8.0\News.Entitis.pdb
+F:\youTube_WebApi\Bearer Api\News\News.Entitis\obj\Debug\net8.0\News.Entitis.GeneratedMSBuildEditorConfig.editorconfig
+F:\youTube_WebApi\Bearer Api\News\News.Entitis\obj\Debug\net8.0\News.Entitis.AssemblyInfoInputs.cache
+F:\youTube_WebApi\Bearer Api\News\News.Entitis\obj\Debug\net8.0\News.Entitis.AssemblyInfo.cs
+F:\youTube_WebApi\Bearer Api\News\News.Entitis\obj\Debug\net8.0\News.Entitis.csproj.CoreCompileInputs.cache
+F:\youTube_WebApi\Bearer Api\News\News.Entitis\obj\Debug\net8.0\News.Entitis.dll
+F:\youTube_WebApi\Bearer Api\News\News.Entitis\obj\Debug\net8.0\refint\News.Entitis.dll
+F:\youTube_WebApi\Bearer Api\News\News.Entitis\obj\Debug\net8.0\News.Entitis.pdb
+F:\youTube_WebApi\Bearer Api\News\News.Entitis\obj\Debug\net8.0\ref\News.Entitis.dll

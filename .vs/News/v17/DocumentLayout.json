@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\youTube_WebApi\\Bearer Api\\News\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{629AE351-0988-4592-AA82-785DF2392CBC}|News.RestApi\\News.RestApi.csproj|f:\\youtube_webapi\\bearer api\\news\\news.restapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{629AE351-0988-4592-AA82-785DF2392CBC}|News.RestApi\\News.RestApi.csproj|solutionrelative:news.restapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF66FEDA-1E1A-4A0B-ADF5-946E815C8A32}|restaurants.persistence.EF\\News.persistence.EF.csproj|f:\\youtube_webapi\\bearer api\\news\\restaurants.persistence.ef\\efdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF66FEDA-1E1A-4A0B-ADF5-946E815C8A32}|restaurants.persistence.EF\\News.persistence.EF.csproj|solutionrelative:restaurants.persistence.ef\\efdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7544509B-29A4-4363-8A82-FAD942672B43}|News.migrations\\News.migrations.csproj|f:\\youtube_webapi\\bearer api\\news\\news.migrations\\_202408151230_createnewstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7544509B-29A4-4363-8A82-FAD942672B43}|News.migrations\\News.migrations.csproj|solutionrelative:news.migrations\\_202408151230_createnewstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD1FA3C-B31D-47D5-AD47-904A7770C222}|News.Entitis\\News.Entitis.csproj|f:\\youtube_webapi\\bearer api\\news\\news.entitis\\categorys\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD1FA3C-B31D-47D5-AD47-904A7770C222}|News.Entitis\\News.Entitis.csproj|solutionrelative:news.entitis\\categorys\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD1FA3C-B31D-47D5-AD47-904A7770C222}|News.Entitis\\News.Entitis.csproj|f:\\youtube_webapi\\bearer api\\news\\news.entitis\\news\\newss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD1FA3C-B31D-47D5-AD47-904A7770C222}|News.Entitis\\News.Entitis.csproj|solutionrelative:news.entitis\\news\\newss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF66FEDA-1E1A-4A0B-ADF5-946E815C8A32}|restaurants.persistence.EF\\News.persistence.EF.csproj|f:\\youtube_webapi\\bearer api\\news\\restaurants.persistence.ef\\news\\efnewsrepozitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF66FEDA-1E1A-4A0B-ADF5-946E815C8A32}|restaurants.persistence.EF\\News.persistence.EF.csproj|solutionrelative:restaurants.persistence.ef\\news\\efnewsrepozitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D597F7-0B40-46DB-B887-CA6169B18498}|News.Services\\News.Services.csproj|f:\\youtube_webapi\\bearer api\\news\\news.services\\news\\contracts\\dtos\\addnewsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D597F7-0B40-46DB-B887-CA6169B18498}|News.Services\\News.Services.csproj|solutionrelative:news.services\\news\\contracts\\dtos\\addnewsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D597F7-0B40-46DB-B887-CA6169B18498}|News.Services\\News.Services.csproj|f:\\youtube_webapi\\bearer api\\news\\news.services\\news\\newsappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D597F7-0B40-46DB-B887-CA6169B18498}|News.Services\\News.Services.csproj|solutionrelative:news.services\\news\\newsappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D597F7-0B40-46DB-B887-CA6169B18498}|News.Services\\News.Services.csproj|f:\\youtube_webapi\\bearer api\\news\\news.services\\news\\execptions\\newsalreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D597F7-0B40-46DB-B887-CA6169B18498}|News.Services\\News.Services.csproj|solutionrelative:news.services\\news\\execptions\\newsalreadyexistsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D597F7-0B40-46DB-B887-CA6169B18498}|News.Services\\News.Services.csproj|f:\\youtube_webapi\\bearer api\\news\\news.services\\news\\execptions\\newsnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D597F7-0B40-46DB-B887-CA6169B18498}|News.Services\\News.Services.csproj|solutionrelative:news.services\\news\\execptions\\newsnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D597F7-0B40-46DB-B887-CA6169B18498}|News.Services\\News.Services.csproj|f:\\youtube_webapi\\bearer api\\news\\news.services\\news\\contracts\\newsrepozitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D597F7-0B40-46DB-B887-CA6169B18498}|News.Services\\News.Services.csproj|solutionrelative:news.services\\news\\contracts\\newsrepozitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D597F7-0B40-46DB-B887-CA6169B18498}|News.Services\\News.Services.csproj|f:\\youtube_webapi\\bearer api\\news\\news.services\\news\\contracts\\dtos\\updatenewsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D597F7-0B40-46DB-B887-CA6169B18498}|News.Services\\News.Services.csproj|solutionrelative:news.services\\news\\contracts\\dtos\\updatenewsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D597F7-0B40-46DB-B887-CA6169B18498}|News.Services\\News.Services.csproj|f:\\youtube_webapi\\bearer api\\news\\news.services\\news\\contracts\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D597F7-0B40-46DB-B887-CA6169B18498}|News.Services\\News.Services.csproj|solutionrelative:news.services\\news\\contracts\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D597F7-0B40-46DB-B887-CA6169B18498}|News.Services\\News.Services.csproj|f:\\youtube_webapi\\bearer api\\news\\news.services\\news\\contracts\\dtos\\getnewsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D597F7-0B40-46DB-B887-CA6169B18498}|News.Services\\News.Services.csproj|solutionrelative:news.services\\news\\contracts\\dtos\\getnewsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D597F7-0B40-46DB-B887-CA6169B18498}|News.Services\\News.Services.csproj|f:\\youtube_webapi\\bearer api\\news\\news.services\\news\\contracts\\dtos\\getallnewsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D597F7-0B40-46DB-B887-CA6169B18498}|News.Services\\News.Services.csproj|solutionrelative:news.services\\news\\contracts\\dtos\\getallnewsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddNewsDto.cs",
+              "DocumentMoniker": "F:\\youTube_WebApi\\Bearer Api\\News\\News.Services\\News\\Contracts\\Dtos\\AddNewsDto.cs",
+              "RelativeDocumentMoniker": "News.Services\\News\\Contracts\\Dtos\\AddNewsDto.cs",
+              "ToolTip": "F:\\youTube_WebApi\\Bearer Api\\News\\News.Services\\News\\Contracts\\Dtos\\AddNewsDto.cs",
+              "RelativeToolTip": "News.Services\\News\\Contracts\\Dtos\\AddNewsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T20:24:49.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NewsAlreadyExistsException.cs",
+              "DocumentMoniker": "F:\\youTube_WebApi\\Bearer Api\\News\\News.Services\\News\\Execptions\\NewsAlreadyExistsException.cs",
+              "RelativeDocumentMoniker": "News.Services\\News\\Execptions\\NewsAlreadyExistsException.cs",
+              "ToolTip": "F:\\youTube_WebApi\\Bearer Api\\News\\News.Services\\News\\Execptions\\NewsAlreadyExistsException.cs",
+              "RelativeToolTip": "News.Services\\News\\Execptions\\NewsAlreadyExistsException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T20:20:17.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NewsNotFoundException.cs",
+              "DocumentMoniker": "F:\\youTube_WebApi\\Bearer Api\\News\\News.Services\\News\\Execptions\\NewsNotFoundException.cs",
+              "RelativeDocumentMoniker": "News.Services\\News\\Execptions\\NewsNotFoundException.cs",
+              "ToolTip": "F:\\youTube_WebApi\\Bearer Api\\News\\News.Services\\News\\Execptions\\NewsNotFoundException.cs",
+              "RelativeToolTip": "News.Services\\News\\Execptions\\NewsNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T20:20:15.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NewsRepozitory.cs",
+              "DocumentMoniker": "F:\\youTube_WebApi\\Bearer Api\\News\\News.Services\\News\\Contracts\\NewsRepozitory.cs",
+              "RelativeDocumentMoniker": "News.Services\\News\\Contracts\\NewsRepozitory.cs",
+              "ToolTip": "F:\\youTube_WebApi\\Bearer Api\\News\\News.Services\\News\\Contracts\\NewsRepozitory.cs",
+              "RelativeToolTip": "News.Services\\News\\Contracts\\NewsRepozitory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T20:16:24.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EFDataContext.cs",
+              "DocumentMoniker": "F:\\youTube_WebApi\\Bearer Api\\News\\restaurants.persistence.EF\\EFDataContext.cs",
+              "RelativeDocumentMoniker": "restaurants.persistence.EF\\EFDataContext.cs",
+              "ToolTip": "F:\\youTube_WebApi\\Bearer Api\\News\\restaurants.persistence.EF\\EFDataContext.cs",
+              "RelativeToolTip": "restaurants.persistence.EF\\EFDataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T20:15:02.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\youTube_WebApi\\Bearer Api\\News\\News.RestApi\\Program.cs",
+              "RelativeDocumentMoniker": "News.RestApi\\Program.cs",
+              "ToolTip": "F:\\youTube_WebApi\\Bearer Api\\News\\News.RestApi\\Program.cs",
+              "RelativeToolTip": "News.RestApi\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T20:09:05.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateNewsDto.cs",
+              "DocumentMoniker": "F:\\youTube_WebApi\\Bearer Api\\News\\News.Services\\News\\Contracts\\Dtos\\UpdateNewsDto.cs",
+              "RelativeDocumentMoniker": "News.Services\\News\\Contracts\\Dtos\\UpdateNewsDto.cs",
+              "ToolTip": "F:\\youTube_WebApi\\Bearer Api\\News\\News.Services\\News\\Contracts\\Dtos\\UpdateNewsDto.cs",
+              "RelativeToolTip": "News.Services\\News\\Contracts\\Dtos\\UpdateNewsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T19:47:33.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_202408151230_CreateNewsTable.cs",
+              "DocumentMoniker": "F:\\youTube_WebApi\\Bearer Api\\News\\News.migrations\\_202408151230_CreateNewsTable.cs",
+              "RelativeDocumentMoniker": "News.migrations\\_202408151230_CreateNewsTable.cs",
+              "ToolTip": "F:\\youTube_WebApi\\Bearer Api\\News\\News.migrations\\_202408151230_CreateNewsTable.cs",
+              "RelativeToolTip": "News.migrations\\_202408151230_CreateNewsTable.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwCAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T19:40:42.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EFnewsRepozitory.cs",
+              "DocumentMoniker": "F:\\youTube_WebApi\\Bearer Api\\News\\restaurants.persistence.EF\\News\\EFnewsRepozitory.cs",
+              "RelativeDocumentMoniker": "restaurants.persistence.EF\\News\\EFnewsRepozitory.cs",
+              "ToolTip": "F:\\youTube_WebApi\\Bearer Api\\News\\restaurants.persistence.EF\\News\\EFnewsRepozitory.cs",
+              "RelativeToolTip": "restaurants.persistence.EF\\News\\EFnewsRepozitory.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAqwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T19:34:34.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NewsAppService.cs",
+              "DocumentMoniker": "F:\\youTube_WebApi\\Bearer Api\\News\\News.Services\\News\\NewsAppService.cs",
+              "RelativeDocumentMoniker": "News.Services\\News\\NewsAppService.cs",
+              "ToolTip": "F:\\youTube_WebApi\\Bearer Api\\News\\News.Services\\News\\NewsAppService.cs",
+              "RelativeToolTip": "News.Services\\News\\NewsAppService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAIA5wB8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T19:31:31.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetAllNewsDto.cs",
+              "DocumentMoniker": "F:\\youTube_WebApi\\Bearer Api\\News\\News.Services\\News\\Contracts\\Dtos\\GetAllNewsDto.cs",
+              "RelativeDocumentMoniker": "News.Services\\News\\Contracts\\Dtos\\GetAllNewsDto.cs",
+              "ToolTip": "F:\\youTube_WebApi\\Bearer Api\\News\\News.Services\\News\\Contracts\\Dtos\\GetAllNewsDto.cs",
+              "RelativeToolTip": "News.Services\\News\\Contracts\\Dtos\\GetAllNewsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T19:29:47.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetNewsDto.cs",
+              "DocumentMoniker": "F:\\youTube_WebApi\\Bearer Api\\News\\News.Services\\News\\Contracts\\Dtos\\GetNewsDto.cs",
+              "RelativeDocumentMoniker": "News.Services\\News\\Contracts\\Dtos\\GetNewsDto.cs",
+              "ToolTip": "F:\\youTube_WebApi\\Bearer Api\\News\\News.Services\\News\\Contracts\\Dtos\\GetNewsDto.cs",
+              "RelativeToolTip": "News.Services\\News\\Contracts\\Dtos\\GetNewsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T19:29:14.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NewsService.cs",
+              "DocumentMoniker": "F:\\youTube_WebApi\\Bearer Api\\News\\News.Services\\News\\Contracts\\NewsService.cs",
+              "RelativeDocumentMoniker": "News.Services\\News\\Contracts\\NewsService.cs",
+              "ToolTip": "F:\\youTube_WebApi\\Bearer Api\\News\\News.Services\\News\\Contracts\\NewsService.cs",
+              "RelativeToolTip": "News.Services\\News\\Contracts\\NewsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T19:29:12.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Newss.cs",
+              "DocumentMoniker": "F:\\youTube_WebApi\\Bearer Api\\News\\News.Entitis\\News\\Newss.cs",
+              "RelativeDocumentMoniker": "News.Entitis\\News\\Newss.cs",
+              "ToolTip": "F:\\youTube_WebApi\\Bearer Api\\News\\News.Entitis\\News\\Newss.cs",
+              "RelativeToolTip": "News.Entitis\\News\\Newss.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwBEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T19:28:43.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "F:\\youTube_WebApi\\Bearer Api\\News\\News.Entitis\\Categorys\\Category.cs",
+              "RelativeDocumentMoniker": "News.Entitis\\Categorys\\Category.cs",
+              "ToolTip": "F:\\youTube_WebApi\\Bearer Api\\News\\News.Entitis\\Categorys\\Category.cs",
+              "RelativeToolTip": "News.Entitis\\Categorys\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T19:28:40.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

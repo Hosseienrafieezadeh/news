@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.Sqlite.Core" Version="8.0.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite.Core" Version="8.0.8" />
+    <PackageReference Include="SQLitePCLRaw.bundle_e_sqlite3" Version="2.1.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\News.Contracts\News.Contracts.csproj" />
+    <ProjectReference Include="..\News.Entitis\News.Entitis.csproj" />
+    <ProjectReference Include="..\News.migrations\News.migrations.csproj" />
+    <ProjectReference Include="..\News.RestApi\News.RestApi.csproj" />
+    <ProjectReference Include="..\News.Services\News.Services.csproj" />
+    <ProjectReference Include="..\restaurants.persistence.EF\News.persistence.EF.csproj" />
+  </ItemGroup>
+
+</Project>
